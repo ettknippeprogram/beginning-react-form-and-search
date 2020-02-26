@@ -1,3 +1,27 @@
+
+# Beginning React with form and search
+
+
+Nedan Reacts starttext. Men för att köra repot behövs först 'react' och 'react-dom'. Lättast just nu är att först ladda ner Reacts startmiljö. Byta mapp. Och köra.    
+ 
+
+### `npx create-react-app [ett-bra-namn]`
+### `cd [namnet]`
+### `npm start`
+
+<br>
+
+Sedan återskapas repot lätt genom att lägga in filerna i den egna startmiljö.
+
+Fler versioner kommer och uppdatering av readme-filen.  
+
+
+Happy coding! 🌴🐧🤓
+
+<br>
+<br>
+<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
