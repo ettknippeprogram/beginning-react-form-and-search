@@ -1,5 +1,4 @@
-
-<br>
+ 
 <br>
 
 # Beginning React with form and search
@@ -9,9 +8,9 @@
 Nedan Reacts starttext. Men för att köra repot behövs först 'react' och 'react-dom'. Lättast just nu är att först ladda ner Reacts startmiljö. Byta mapp. Och köra.    
  
 
-#### `npx create-react-app [ett-bra-namn]`
-#### `cd [namnet]`
-#### `npm start`
+##### `npx create-react-app [ett-bra-namn]`
+##### `cd [namnet]`
+##### `npm start`
 
 <br>
 
